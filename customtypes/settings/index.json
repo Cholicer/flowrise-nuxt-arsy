@@ -24,7 +24,10 @@
         "type": "Image",
         "config": {
           "label": "OG Image",
-          "constraint": {},
+          "constraint": {
+            "width": 1280,
+            "height": 720
+          },
           "thumbnails": []
         }
       },
